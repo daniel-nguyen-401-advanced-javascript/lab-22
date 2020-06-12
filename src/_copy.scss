@@ -1,0 +1,22 @@
+$align: center;
+$size: 4em;
+$font: monospace;
+
+
+header {
+  text-align: $align;
+  font-family: $font;
+  font-size: $size/2;
+}
+
+.counter {
+  text-align: $align;
+  font-size: $size * 2;
+  font-family: $font;
+}
+
+footer {
+  text-align: $align;
+  font-family: $font;
+  font-size: $size/2;
+}

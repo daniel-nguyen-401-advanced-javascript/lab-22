@@ -1,0 +1,18 @@
+@import '_colors';
+@import '_copy';
+@import '_spacing';
+
+
+/* 
+
+Do not change HTML when styling
+
+In this SASS file, add some styling for the Header, Footer and Counter components. Within your SASS code, you must:
+
+* Utilize at least one variable (for example $backgroundColor)
+* Utilize SASS nesting capabilities
+* Utilize partials so that your style code can be broken up across multiple files. @use these partials in your main styles.scss/styles.sass file
+Your styling should pin the Header to the top of the page, and the Footer to the bottom of the page, with the counter in the middle. Some attempt should be made to add styling to the Counter component.
+
+*/
+

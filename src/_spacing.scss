@@ -1,0 +1,28 @@
+$padding: 10px;
+$fill: 100%;
+
+header {
+  position: absolute;
+  top: $padding;
+  width: $fill;
+}
+
+.counter {
+  position: absolute;
+  top: $fill /2;
+  width: $fill;
+
+  .up {
+    margin-left: $padding;
+  }
+
+  .down {
+    margin-right: $padding;
+  }
+}
+
+footer {
+  position: absolute;
+  bottom: $padding;
+  width: $fill;
+}
